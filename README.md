@@ -1,4 +1,4 @@
-# Introduction-to-programming-in-C
+# Introduction to programming in C
  Notes, scripts and excercises to conducted studies at Wroclaw University of Technology in winter 2018/2019
 
 ## Table of contents
