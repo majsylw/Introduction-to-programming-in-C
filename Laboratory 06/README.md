@@ -37,10 +37,10 @@ Znajduja sie w nim jednak bledy.
 Popraw bledy, aby program dzialal prawidlowo.
 Opisz wprowadzone zmiany w komentarzach*/
 
-<pra>
+<pre>
 %include <studio.h> 
 
 mein[]{
     printf('Hello world!')      
 }
-</pra>
+</pre>
