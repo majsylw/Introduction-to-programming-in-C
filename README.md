@@ -24,9 +24,6 @@ List of features ready and TODOs for future development
 * Solutions for some excercises
 * Create comprehensive notes in [wiki](https://github.com/majsylw/Introduction-to-programming-in-C/wiki) PL
 
-To-do list:
-* Create directories for all laboratories
-
 
 ## Status
 Project is: _finished_
