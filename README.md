@@ -1,5 +1,5 @@
 # Introduction to programming in C
- Notes, scripts and excercises to conducted studies at Wroclaw University of Technology in winter 2018/2019
+ Notes, scripts and excercises to conducted studies at Wroclaw University of Technology in winter 2017/2018
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,7 +11,6 @@
 Classes are conducted for technical physics and optics students at WUST.
 The main goal of the course is to teach basics of programming in C.
 
-
 ## Screenshots
 ![Example screenshot](./screens/screenshot.png)
 
@@ -20,13 +19,9 @@ The main goal of the course is to teach basics of programming in C.
 * Code::Blocks
 
 ## Features
-List of features ready and TODOs for future development
+List of features ready
 * Solutions for some excercises
 * Create comprehensive notes in [wiki](https://github.com/majsylw/Introduction-to-programming-in-C/wiki) PL
-
-To-do list:
-* Create directories for all laboratories
-
 
 ## Status
 Project is: _finished_
